@@ -1,0 +1,1268 @@
+{
+    "count": 556,
+    "next": "http://gutendex.com/books/?page=2&topic=philosophy",
+    "previous": null,
+    "results": [
+        {
+            "id": 174,
+            "title": "The Picture of Dorian Gray",
+            "authors": [
+                {
+                    "name": "Wilde, Oscar",
+                    "birth_year": 1854,
+                    "death_year": 1900
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Appearance (Philosophy) -- Fiction",
+                "Conduct of life -- Fiction",
+                "Didactic fiction",
+                "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+                "London (England) -- History -- 1800-1950 -- Fiction",
+                "Paranormal fiction",
+                "Portraits -- Fiction",
+                "Supernatural -- Fiction"
+            ],
+            "bookshelves": [
+                "Gothic Fiction",
+                "Movie Books"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/174.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/174.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/174.html.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
+                "application/octet-stream": "https://www.gutenberg.org/files/174/174-0.zip",
+                "text/plain": "https://www.gutenberg.org/ebooks/174.txt.utf-8",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/174/174-0.txt",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/174.rdf"
+            },
+            "download_count": 21954
+        },
+        {
+            "id": 1232,
+            "title": "The Prince",
+            "authors": [
+                {
+                    "name": "Machiavelli, Niccol\u00f2",
+                    "birth_year": 1469,
+                    "death_year": 1527
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Marriott, W. K. (William Kenaz)",
+                    "birth_year": null,
+                    "death_year": 1927
+                }
+            ],
+            "subjects": [
+                "Political ethics -- Early works to 1800",
+                "Political science -- Philosophy -- Early works to 1800",
+                "State, The -- Early works to 1800"
+            ],
+            "bookshelves": [
+                "Banned Books from Anne Haight's list",
+                "Harvard Classics",
+                "Philosophy",
+                "Politics"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1232.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/1232.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/1232.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/1232/1232-0.zip",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/1232/pg1232.cover.medium.jpg",
+                "text/plain": "https://www.gutenberg.org/ebooks/1232.txt.utf-8",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1232/1232-0.txt",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/1232.rdf"
+            },
+            "download_count": 11755
+        },
+        {
+            "id": 1497,
+            "title": "The Republic",
+            "authors": [
+                {
+                    "name": "Plato",
+                    "birth_year": -428,
+                    "death_year": -348
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Jowett, Benjamin",
+                    "birth_year": 1817,
+                    "death_year": 1893
+                }
+            ],
+            "subjects": [
+                "Classical literature",
+                "Justice -- Early works to 1800",
+                "Political science -- Early works to 1800",
+                "Utopias -- Early works to 1800"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1497.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/1497.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/1497.html.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/1497/pg1497.cover.medium.jpg",
+                "application/octet-stream": "https://www.gutenberg.org/files/1497/1497-0.zip",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1497/1497-0.txt",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/1497.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/1497.txt.utf-8"
+            },
+            "download_count": 9652
+        },
+        {
+            "id": 5827,
+            "title": "The Problems of Philosophy",
+            "authors": [
+                {
+                    "name": "Russell, Bertrand",
+                    "birth_year": 1872,
+                    "death_year": 1970
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Knowledge, Theory of",
+                "Metaphysics",
+                "Philosophy -- Introductions"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5827.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/5827.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/5827/pg5827.cover.medium.jpg",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5827/5827.txt",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/5827/5827-8.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/5827.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/5827.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/5827.txt.utf-8"
+            },
+            "download_count": 9392
+        },
+        {
+            "id": 7370,
+            "title": "Second Treatise of Government",
+            "authors": [
+                {
+                    "name": "Locke, John",
+                    "birth_year": 1632,
+                    "death_year": 1704
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Liberty -- Early works to 1800",
+                "Political science -- Early works to 1800",
+                "Toleration -- Early works to 1800"
+            ],
+            "bookshelves": [
+                "Philosophy",
+                "Politics"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7370.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/7370.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/7370.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/7370/7370-0.zip",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/7370/pg7370.cover.medium.jpg",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7370/7370-0.txt",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/7370.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/7370.txt.utf-8"
+            },
+            "download_count": 7704
+        },
+        {
+            "id": 4363,
+            "title": "Beyond Good and Evil",
+            "authors": [
+                {
+                    "name": "Nietzsche, Friedrich Wilhelm",
+                    "birth_year": 1844,
+                    "death_year": 1900
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Zimmern, Helen",
+                    "birth_year": 1846,
+                    "death_year": 1934
+                }
+            ],
+            "subjects": [
+                "Ethics",
+                "Philosophy, German"
+            ],
+            "bookshelves": [
+                "Atheism",
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4363.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/4363.epub3.images",
+                "text/html; charset=us-ascii": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4363/4363.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+                "text/html": "https://www.gutenberg.org/ebooks/4363.html.images",
+                "text/plain": "https://www.gutenberg.org/ebooks/4363.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/4363.rdf"
+            },
+            "download_count": 7414
+        },
+        {
+            "id": 1998,
+            "title": "Thus Spake Zarathustra: A Book for All and None",
+            "authors": [
+                {
+                    "name": "Nietzsche, Friedrich Wilhelm",
+                    "birth_year": 1844,
+                    "death_year": 1900
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Common, Thomas",
+                    "birth_year": 1850,
+                    "death_year": 1919
+                }
+            ],
+            "subjects": [
+                "Philosophy, German",
+                "Superman (Philosophical concept)"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1998.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/1998.epub3.images",
+                "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1998/1998-0.txt",
+                "text/html; charset=utf-8": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/1998/pg1998.cover.medium.jpg",
+                "text/html": "https://www.gutenberg.org/ebooks/1998.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/1998.rdf"
+            },
+            "download_count": 6848
+        },
+        {
+            "id": 5740,
+            "title": "Tractatus Logico-Philosophicus",
+            "authors": [
+                {
+                    "name": "Wittgenstein, Ludwig",
+                    "birth_year": 1889,
+                    "death_year": 1951
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Ogden, C. K. (Charles Kay)",
+                    "birth_year": 1889,
+                    "death_year": 1957
+                }
+            ],
+            "subjects": [
+                "Language and languages -- Philosophy",
+                "Logic, Symbolic and mathematical"
+            ],
+            "bookshelves": [
+                "DE Sachbuch",
+                "Mathematics",
+                "Philosophy"
+            ],
+            "languages": [
+                "de",
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/octet-stream": "https://www.gutenberg.org/files/5740/5740-page-images/f0001.png",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/5740/pg5740.cover.medium.jpg",
+                "application/prs.tex": "https://www.gutenberg.org/files/5740/5740-t/5740-t.tex",
+                "application/pdf": "https://www.gutenberg.org/files/5740/5740-pdf.pdf",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/5740.rdf"
+            },
+            "download_count": 4510
+        },
+        {
+            "id": 2500,
+            "title": "Siddhartha",
+            "authors": [
+                {
+                    "name": "Hesse, Hermann",
+                    "birth_year": 1877,
+                    "death_year": 1962
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Brahmans -- Fiction",
+                "Buddhism -- Fiction",
+                "Buddhist philosophy -- Fiction",
+                "Gautama Buddha -- Fiction",
+                "India -- Religion -- Fiction",
+                "India -- Social life and customs -- Fiction",
+                "Self-realization -- Fiction",
+                "Spiritual life -- Fiction"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2500.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/2500.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/2500.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/2500/2500-0.zip",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/2500/pg2500.cover.medium.jpg",
+                "text/plain": "https://www.gutenberg.org/ebooks/2500.txt.utf-8",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2500/2500-0.txt",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/2500.rdf"
+            },
+            "download_count": 4346
+        },
+        {
+            "id": 61,
+            "title": "The Communist Manifesto",
+            "authors": [
+                {
+                    "name": "Engels, Friedrich",
+                    "birth_year": 1820,
+                    "death_year": 1895
+                },
+                {
+                    "name": "Marx, Karl",
+                    "birth_year": 1818,
+                    "death_year": 1883
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Communism",
+                "Socialism"
+            ],
+            "bookshelves": [
+                "Banned Books from Anne Haight's list",
+                "Philosophy",
+                "Politics"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/61.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/61.html.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/61/pg61.cover.medium.jpg",
+                "application/octet-stream": "https://www.gutenberg.org/files/61/61-0.zip",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/61/61-0.txt",
+                "text/plain": "https://www.gutenberg.org/ebooks/61.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/61.rdf"
+            },
+            "download_count": 3903
+        },
+        {
+            "id": 34901,
+            "title": "On Liberty",
+            "authors": [
+                {
+                    "name": "Mill, John Stuart",
+                    "birth_year": 1806,
+                    "death_year": 1873
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Liberty"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34901.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/34901.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/34901/pg34901.cover.medium.jpg",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/34901/34901-8.txt",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/34901/34901.txt",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+                "text/html": "https://www.gutenberg.org/ebooks/34901.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/34901.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/34901.txt.utf-8"
+            },
+            "download_count": 3671
+        },
+        {
+            "id": 4280,
+            "title": "The Critique of Pure Reason",
+            "authors": [
+                {
+                    "name": "Kant, Immanuel",
+                    "birth_year": 1724,
+                    "death_year": 1804
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Meiklejohn, J. M. D. (John Miller Dow)",
+                    "birth_year": 1830,
+                    "death_year": 1902
+                }
+            ],
+            "subjects": [
+                "Causation",
+                "Knowledge, Theory of",
+                "Philosophy, German",
+                "Reason"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4280.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/4280.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/4280/pg4280.cover.medium.jpg",
+                "text/html; charset=utf-8": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+                "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4280/4280-0.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/4280.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/4280.rdf"
+            },
+            "download_count": 3122
+        },
+        {
+            "id": 852,
+            "title": "Democracy and Education: An Introduction to the Philosophy of Education",
+            "authors": [
+                {
+                    "name": "Dewey, John",
+                    "birth_year": 1859,
+                    "death_year": 1952
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Education -- Philosophy",
+                "Education -- Social aspects"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/852.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/852.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/852/pg852.cover.medium.jpg",
+                "text/html; charset=us-ascii": "https://www.gutenberg.org/files/852/852-h/852-h.htm",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/852/852.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/852.html.images",
+                "text/plain": "https://www.gutenberg.org/ebooks/852.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/852.rdf"
+            },
+            "download_count": 2986
+        },
+        {
+            "id": 18269,
+            "title": "Pascal's Pens\u00e9es",
+            "authors": [
+                {
+                    "name": "Pascal, Blaise",
+                    "birth_year": 1623,
+                    "death_year": 1662
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Apologetics",
+                "Philosophy"
+            ],
+            "bookshelves": [
+                "Banned Books from Anne Haight's list",
+                "Harvard Classics"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18269.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/18269.epub3.images",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/18269/18269-8.txt",
+                "text/html; charset=utf-8": "https://www.gutenberg.org/files/18269/18269-h/18269-h.htm",
+                "text/plain; charset=utf-8": "https://www.gutenberg.org/files/18269/18269-0.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/18269/pg18269.cover.medium.jpg",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18269/18269.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/18269.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/18269.rdf"
+            },
+            "download_count": 2839
+        },
+        {
+            "id": 1974,
+            "title": "The Poetics of Aristotle",
+            "authors": [
+                {
+                    "name": "Aristotle",
+                    "birth_year": -384,
+                    "death_year": -322
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Butcher, S. H. (Samuel Henry)",
+                    "birth_year": 1850,
+                    "death_year": 1910
+                }
+            ],
+            "subjects": [
+                "Aesthetics -- Early works to 1800",
+                "Poetry -- Early works to 1800"
+            ],
+            "bookshelves": [
+                "Classical Antiquity",
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1974.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/1974.epub3.images",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1974/1974.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/1974/pg1974.cover.medium.jpg",
+                "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1974/1974-h/1974-h.htm",
+                "text/html": "https://www.gutenberg.org/ebooks/1974.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/1974.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/1974.txt.utf-8"
+            },
+            "download_count": 2800
+        },
+        {
+            "id": 14328,
+            "title": "The Consolation of Philosophy",
+            "authors": [
+                {
+                    "name": "Boethius",
+                    "birth_year": 480,
+                    "death_year": 524
+                }
+            ],
+            "translators": [
+                {
+                    "name": "James, H. R. (Henry Rosher)",
+                    "birth_year": 1862,
+                    "death_year": 1931
+                }
+            ],
+            "subjects": [
+                "Happiness",
+                "Philosophy and religion"
+            ],
+            "bookshelves": [
+                "Classical Antiquity"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14328.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/14328.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/14328/pg14328.cover.medium.jpg",
+                "text/html; charset=utf-8": "https://www.gutenberg.org/files/14328/14328-h/14328-h.htm",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/14328/14328-8.txt",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14328/14328.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/14328.html.images",
+                "text/plain": "https://www.gutenberg.org/ebooks/14328.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/14328.rdf"
+            },
+            "download_count": 2717
+        },
+        {
+            "id": 3800,
+            "title": "Ethics",
+            "authors": [
+                {
+                    "name": "Spinoza, Benedictus de",
+                    "birth_year": 1632,
+                    "death_year": 1677
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Elwes, R. H. M. (Robert Harvey Monro)",
+                    "birth_year": 1853,
+                    "death_year": null
+                }
+            ],
+            "subjects": [
+                "Ethics"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3800.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/3800.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/3800/pg3800.cover.medium.jpg",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/3800/3800-8.txt",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3800/3800.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/3800.html.images",
+                "text/plain": "https://www.gutenberg.org/ebooks/3800.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/3800.rdf"
+            },
+            "download_count": 2610
+        },
+        {
+            "id": 19322,
+            "title": "The Antichrist",
+            "authors": [
+                {
+                    "name": "Nietzsche, Friedrich Wilhelm",
+                    "birth_year": 1844,
+                    "death_year": 1900
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Mencken, H. L. (Henry Louis)",
+                    "birth_year": 1880,
+                    "death_year": 1956
+                }
+            ],
+            "subjects": [
+                "Christianity -- Controversial literature"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/19322.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/19322.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/19322/pg19322.cover.medium.jpg",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/19322/19322-8.txt",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/19322/19322-h/19322-h.htm",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/19322/19322.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/19322.html.images",
+                "text/plain": "https://www.gutenberg.org/ebooks/19322.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/19322.rdf"
+            },
+            "download_count": 2343
+        },
+        {
+            "id": 59,
+            "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+            "authors": [
+                {
+                    "name": "Descartes, Ren\u00e9",
+                    "birth_year": 1596,
+                    "death_year": 1650
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Veitch, John",
+                    "birth_year": 1829,
+                    "death_year": 1894
+                }
+            ],
+            "subjects": [
+                "Methodology",
+                "Science -- Methodology"
+            ],
+            "bookshelves": [
+                "Harvard Classics",
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/59.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/59.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/59.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/59/59-0.zip",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/59/pg59.cover.medium.jpg",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/59/59-0.txt",
+                "text/plain": "https://www.gutenberg.org/ebooks/59.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/59.rdf"
+            },
+            "download_count": 2240
+        },
+        {
+            "id": 8438,
+            "title": "The Ethics of Aristotle",
+            "authors": [
+                {
+                    "name": "Aristotle",
+                    "birth_year": -384,
+                    "death_year": -322
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Ethics"
+            ],
+            "bookshelves": [
+                "Classical Antiquity",
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8438.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/8438.epub3.images",
+                "text/html; charset=utf-8": "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm",
+                "text/plain; charset=utf-8": "https://www.gutenberg.org/files/8438/8438-0.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/8438/pg8438.cover.medium.jpg",
+                "text/html": "https://www.gutenberg.org/ebooks/8438.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/8438.rdf"
+            },
+            "download_count": 2166
+        },
+        {
+            "id": 1656,
+            "title": "Apology",
+            "authors": [
+                {
+                    "name": "Plato",
+                    "birth_year": -428,
+                    "death_year": -348
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Jowett, Benjamin",
+                    "birth_year": 1817,
+                    "death_year": 1893
+                }
+            ],
+            "subjects": [
+                "Classical literature",
+                "Philosophy, Ancient",
+                "Socrates, 470 BC-399 BC"
+            ],
+            "bookshelves": [
+                "Harvard Classics",
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1656.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/1656.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/1656/pg1656.cover.medium.jpg",
+                "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1656/1656-0.txt",
+                "text/html; charset=utf-8": "https://www.gutenberg.org/files/1656/1656-h/1656-h.htm",
+                "text/html": "https://www.gutenberg.org/ebooks/1656.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/1656.rdf"
+            },
+            "download_count": 2110
+        },
+        {
+            "id": 29433,
+            "title": "Nature",
+            "authors": [
+                {
+                    "name": "Emerson, Ralph Waldo",
+                    "birth_year": 1803,
+                    "death_year": 1882
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Nature",
+                "Philosophy, American"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29433.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/29433.epub3.images",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/29433/29433.txt",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29433/29433-8.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/29433/pg29433.cover.medium.jpg",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/29433/29433-h/29433-h.htm",
+                "text/html": "https://www.gutenberg.org/ebooks/29433.html.images",
+                "text/plain": "https://www.gutenberg.org/ebooks/29433.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/29433.rdf"
+            },
+            "download_count": 2054
+        },
+        {
+            "id": 4705,
+            "title": "A Treatise of Human Nature",
+            "authors": [
+                {
+                    "name": "Hume, David",
+                    "birth_year": 1711,
+                    "death_year": 1776
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Knowledge, Theory of"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4705.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/4705.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/4705.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/4705/4705-0.zip",
+                "text/plain": "https://www.gutenberg.org/ebooks/4705.txt.utf-8",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/4705/pg4705.cover.medium.jpg",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4705/4705-0.txt",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/4705.rdf"
+            },
+            "download_count": 1890
+        },
+        {
+            "id": 1600,
+            "title": "Symposium",
+            "authors": [
+                {
+                    "name": "Plato",
+                    "birth_year": -428,
+                    "death_year": -348
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Jowett, Benjamin",
+                    "birth_year": 1817,
+                    "death_year": 1893
+                }
+            ],
+            "subjects": [
+                "Classical literature",
+                "Love -- Early works to 1800",
+                "Philosophy, Ancient",
+                "Socrates, 470 BC-399 BC"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1600.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/1600.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/1600/pg1600.cover.medium.jpg",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1600/1600.txt",
+                "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1600/1600-h/1600-h.htm",
+                "text/html": "https://www.gutenberg.org/ebooks/1600.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/1600.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/1600.txt.utf-8"
+            },
+            "download_count": 1837
+        },
+        {
+            "id": 9662,
+            "title": "An Enquiry Concerning Human Understanding",
+            "authors": [
+                {
+                    "name": "Hume, David",
+                    "birth_year": 1711,
+                    "death_year": 1776
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Ethics",
+                "Knowledge, Theory of"
+            ],
+            "bookshelves": [
+                "Harvard Classics",
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/9662.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/9662.epub3.images",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/9662/9662.txt",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/9662/pg9662.cover.medium.jpg",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/9662/9662-8.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/9662.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/9662.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/9662.txt.utf-8"
+            },
+            "download_count": 1827
+        },
+        {
+            "id": 38427,
+            "title": "The World as Will and Idea (Vol. 1 of 3)",
+            "authors": [
+                {
+                    "name": "Schopenhauer, Arthur",
+                    "birth_year": 1788,
+                    "death_year": 1860
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount",
+                    "birth_year": 1856,
+                    "death_year": 1928
+                },
+                {
+                    "name": "Kemp, J. (John)",
+                    "birth_year": null,
+                    "death_year": null
+                }
+            ],
+            "subjects": [
+                "Idea (Philosophy)",
+                "Knowledge, Theory of",
+                "Philosophy",
+                "Will"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "text/plain": "https://www.gutenberg.org/ebooks/38427.txt.utf-8",
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38427.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/38427.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/38427.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/38427/38427-0.zip",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38427/38427-0.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/38427/pg38427.cover.medium.jpg",
+                "application/pdf": "https://www.gutenberg.org/files/38427/38427-pdf.pdf",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/38427.rdf",
+                "application/prs.tei": "https://www.gutenberg.org/files/38427/38427-tei/38427-tei.tei"
+            },
+            "download_count": 1717
+        },
+        {
+            "id": 41360,
+            "title": "The Elementary Forms of the Religious Life",
+            "authors": [
+                {
+                    "name": "Durkheim, \u00c9mile",
+                    "birth_year": 1858,
+                    "death_year": 1917
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Swain, Joseph Ward",
+                    "birth_year": 1891,
+                    "death_year": null
+                }
+            ],
+            "subjects": [
+                "Cults",
+                "Religion",
+                "Religion -- Philosophy",
+                "Rites and ceremonies",
+                "Totemism"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41360.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/41360.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/41360/pg41360.cover.medium.jpg",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/41360/41360-8.txt",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41360/41360.txt",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/41360/41360-h/41360-h.htm",
+                "text/html": "https://www.gutenberg.org/ebooks/41360.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/41360.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/41360.txt.utf-8"
+            },
+            "download_count": 1498
+        },
+        {
+            "id": 11224,
+            "title": "Utilitarianism",
+            "authors": [
+                {
+                    "name": "Mill, John Stuart",
+                    "birth_year": 1806,
+                    "death_year": 1873
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Utilitarianism"
+            ],
+            "bookshelves": [
+                "Philosophy"
+            ],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11224.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/11224.epub3.images",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/11224/pg11224.cover.medium.jpg",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11224/11224.txt",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/11224/11224-8.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/11224.html.images",
+                "text/plain": "https://www.gutenberg.org/ebooks/11224.txt.utf-8",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/11224.rdf"
+            },
+            "download_count": 1484
+        },
+        {
+            "id": 47406,
+            "title": "Aphorismen zur Lebensweisheit",
+            "authors": [
+                {
+                    "name": "Schopenhauer, Arthur",
+                    "birth_year": 1788,
+                    "death_year": 1860
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Conduct of life",
+                "Maxims",
+                "Philosophy"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "de"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/47406.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/47406.epub3.images",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/47406/47406-8.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/47406/pg47406.cover.medium.jpg",
+                "text/html; charset=utf-8": "https://www.gutenberg.org/files/47406/47406-h/47406-h.htm",
+                "text/html": "https://www.gutenberg.org/ebooks/47406.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/47406.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/47406.txt.utf-8"
+            },
+            "download_count": 1453
+        },
+        {
+            "id": 26659,
+            "title": "The Will to Believe, and Other Essays in Popular Philosophy",
+            "authors": [
+                {
+                    "name": "James, William",
+                    "birth_year": 1842,
+                    "death_year": 1910
+                }
+            ],
+            "translators": [],
+            "subjects": [
+                "Belief and doubt",
+                "Essays",
+                "Philosophy"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/26659.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/26659.epub3.images",
+                "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/26659/26659-8.txt",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/26659/pg26659.cover.medium.jpg",
+                "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/26659/26659.txt",
+                "text/html": "https://www.gutenberg.org/ebooks/26659.html.images",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/26659.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/26659.txt.utf-8"
+            },
+            "download_count": 1406
+        },
+        {
+            "id": 52263,
+            "title": "The Twilight of the Idols; or, How to Philosophize with the Hammer. The Antichrist: Complete Works, Volume Sixteen",
+            "authors": [
+                {
+                    "name": "Nietzsche, Friedrich Wilhelm",
+                    "birth_year": 1844,
+                    "death_year": 1900
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Ludovici, Anthony M. (Anthony Mario)",
+                    "birth_year": 1882,
+                    "death_year": 1971
+                }
+            ],
+            "subjects": [
+                "Philosophy"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52263.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/52263.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/52263.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/52263/52263-0.zip",
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/52263/pg52263.cover.medium.jpg",
+                "text/plain": "https://www.gutenberg.org/ebooks/52263.txt.utf-8",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52263/52263-0.txt",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/52263.rdf"
+            },
+            "download_count": 1389
+        },
+        {
+            "id": 69751,
+            "title": "The inequality of human races",
+            "authors": [
+                {
+                    "name": "Gobineau, Arthur, comte de",
+                    "birth_year": 1816,
+                    "death_year": 1882
+                }
+            ],
+            "translators": [
+                {
+                    "name": "Collins, Adrian",
+                    "birth_year": null,
+                    "death_year": null
+                }
+            ],
+            "subjects": [
+                "Civilization -- Philosophy",
+                "Ethnology",
+                "Race",
+                "Race relations"
+            ],
+            "bookshelves": [],
+            "languages": [
+                "en"
+            ],
+            "copyright": false,
+            "media_type": "Text",
+            "formats": {
+                "image/jpeg": "https://www.gutenberg.org/cache/epub/69751/pg69751.cover.medium.jpg",
+                "application/rdf+xml": "https://www.gutenberg.org/ebooks/69751.rdf",
+                "text/plain": "https://www.gutenberg.org/ebooks/69751.txt.utf-8",
+                "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69751.kf8.images",
+                "application/epub+zip": "https://www.gutenberg.org/ebooks/69751.epub3.images",
+                "text/html": "https://www.gutenberg.org/ebooks/69751.html.images",
+                "application/octet-stream": "https://www.gutenberg.org/files/69751/69751-0.zip",
+                "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69751/69751-0.txt"
+            },
+            "download_count": 1372
+        }
+    ]
+}
