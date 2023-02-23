@@ -1,11 +1,12 @@
-import umap
+import importlib
 import numpy as np
 from scipy.stats import ortho_group
 import matplotlib.pyplot as plt
 import matplotlib
 from mpl_toolkits.mplot3d import Axes3D
+import umap
 
-
+#waiting for umap-learn to be upgraded to python 3.11 to run this
 
 #paramaterize a sphere
 def get_sphere(N, r, dim):
@@ -27,7 +28,7 @@ X = np.matmul(sphere, orth3)
 model = umap.UMAP(
     n_neighbours = 50,
     min_dist = 0.1,
-    n_compnents = 3,
+    n_components = 3,
     metric = 'euclidean'
 )
 u = model.fit_transform(X)
