@@ -25,28 +25,30 @@ df = pd.DataFrame(words_by_book[1:, 1:], columns = words_by_book[0, 1:], index =
 W = np.array(words_by_book[1:, 1:], dtype = float)
 
 
-                    ## Some sentences for testing (all lowercase, no punctuation ##      
-#s = 'men and women who work as slaves against themselves disguise their own human thought and judgement'
-#s = 'god is dead said zarathustra and we have killed him how shall we comfort ourselves the murderers of all murderers'
-s = 'i am left in an utter juxtaposition of arbitrage against men who defy their own livelihoods'
-#s = 'the nineteenth century dislike of realism is the rage of Caliban seeing his own face in a glass'
+with open('data/sentences.csv', newline='') as f:
+    sentences = list(csv.reader(f))
 
 
-#get the query vector from the sentence
-z = get_query_vector(s, df)
+for s in sentences[1:]:
+    print('"', s[0], '"')
+    #get the query vector from the sentence
+    z = get_query_vector(s[0], df)
 
-#query and print!
-q_1 = W.T.dot(z).T
-print('query result without rank reduction: ', df.columns[np.argmax(q_1)])
+    #query and print!
+    q_1 = W.T.dot(z).T
+    print('query result without rank reduction: ', df.columns[np.argmax(q_1)])
 
 
-#get the QR decomposition of W
-Q, R = np.linalg.qr(W)
+    #get the QR decomposition of W
+    Q, R = np.linalg.qr(W)
 
-#reduce the rank of R to reduce the rank of W
-R_QRD = reduce_rank(R, 10)
-W_QRD = Q.dot(R_QRD)
+    #reduce the rank of R to reduce the rank of W
+    R_QRD = reduce_rank(R, 10)
+    W_QRD = Q.dot(R_QRD)
 
-#query and print!
-q_2 = W_QRD.T.dot(z).T
-print('query result with rank reduction: ', df.columns[np.argmax(q_1)])
+    #query and print!
+    q_2 = W_QRD.T.dot(z).T
+    print('query result with rank reduction: ', df.columns[np.argmax(q_1)], '\n')
+
+pd.DataFrame(np.around(W, 2)).to_csv('W.csv', index = False)
+pd.DataFrame(np.around(W_QRD, 2)).to_csv('W_QRD.csv', index = False)
